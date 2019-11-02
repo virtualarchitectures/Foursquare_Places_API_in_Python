@@ -1,2 +1,4 @@
-# Foursquare_Places_API_in_Python
-A repository demonstrating the process of accessing and mapping data from the  Foursquare Places API using Python
+# Foursquare Places API in Python
+A Jupyter notebook example demonstrating the process of accessing and mapping data from the Foursquare Places API. The notebook demonstrates hot to query venues by a combination of query term and geolocation.
+
+In order to use the Foursquare Places API you will need to [create a Foursquare developer account](https://developer.foursquare.com/). You will then need to create a new app. See the [Places API documentation](https://developer.foursquare.com/docs/api) for further details. The default 'Sandbox' account enables you to make 950 regular API calls and 50 premium calls per day. Check details of [Rate Limits](https://developer.foursquare.com/docs/api/troubleshooting/rate-limits) and the [Endpoints Overview](https://developer.foursquare.com/docs/api/endpoints) for further information.
